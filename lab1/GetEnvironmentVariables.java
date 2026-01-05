@@ -3,7 +3,7 @@ import java.util.Properties;
 public class GetEnvironmentVariables {
 
     //  Fill in the path to your sp21-s*** folder between the quotes
-    public static String REPO_DIR = "";
+    public static String REPO_DIR = "/Users/town/Documents/Study/java/cs61b25/skeleton-sp21";
 
     //  Fill in the path to your snaps-sp21-s*** folder between the quotes
     public static String SNAPS_DIR = "";
